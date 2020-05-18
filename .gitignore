@@ -69,7 +69,6 @@ coverage.xml
 
 
 
-
 */migrations/*
 .log
 #db.sqlite3
